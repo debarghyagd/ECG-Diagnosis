@@ -1,0 +1,88 @@
+Ambulatory ECG abnormal   164852001
+Bifid T wave   251258008
+Bifid U wave   251264001
+Counterclockwise vectorcardiographic loop   61721007
+Deep S wave   164926008
+Dextrocardia/situs inversus finding   85090007
+Digitalis toxicity by EKG   6412007
+Diminished LV forces by EKG   38531000
+Diminished RV forces by EKG   44325009
+ECG: atrial fibrillation   164889003
+EKG axis perpendicular to frontal plane   29489007
+EKG finding in hypertrophy, infarction AND/OR ischemia   106074003
+EKG hypertrophy   1155004
+EKG myocardial ischemia   164861001
+EKG: asystole   427485008
+EKG: atrial flutter   164890007
+EKG: atrial tachycardia   713422000
+EKG: heart block   164898000
+EKG: junctional escape rhythm   426995002
+EKG: left ventricular strain   370365005
+EKG: myocardial infarction   164865005
+EKG: P wave abnormal   164912004
+EKG: P-R interval abnormal   164946003
+EKG: Q wave abnormal   164917005
+EKG: QRS complex abnormal   164951009
+EKG: R wave abnormal   164921003
+EKG: right ventricle hypertrophy   164877000
+EKG: S wave abnormal   164925007
+EKG: supraventricular arrhythmia   164887001
+EKG: supraventricular tachycardia   426761007
+EKG: T wave abnormal   164934002
+EKG: torsades de pointes   426882006
+EKG: U wave abnormal   164937009
+EKG: ventricular arrhythmia   164893009
+EKG: ventricular fibrillation   164896001
+EKG: ventricular tachycardia   164895002
+EKG:left ventricle hypertrophy   164873001
+Electrical alternation of heart   423863005
+Exercise tolerance test abnormal   165084003
+Flat U wave   251262002
+Flattened T wave   66812002
+High T-voltage   251259000
+Inverted T wave   59931005
+Inverted U wave   251240002
+Left axis deviation   39732003
+Left axis deviation greater than -90 degrees by EKG   398002
+Low ventricular voltage by EKG   20329001
+Lown-Ganong-Levine pattern   251118001
+P mitrale by EKG   4725002
+P pulmonale by EKG   1692000
+P wave right axis deviation   251194000
+Pathological Q wave   164918000
+PR depression   251245007
+PR elevation   251244006
+Prolonged P-R interval, NOS   367413009
+Prolonged PR interval   164947007
+Prolonged QT interval   111975006
+Prolonged T wave   251211000
+Prolonged TU interval   251214008
+Prolonged U wave   251217001
+Q wave height decreased   251226003
+Q wave height increased   251225004
+QRS complex height decreased   251235005
+QRS complex height increased   251234009
+R wave height decreased   251229005
+R wave height increased   251228002
+Right axis deviation   47665007
+S wave height decreased   251232008
+S wave height increased   251231001
+S-T changes   55930002
+Shortened PR interval   49578007
+Shortened ST interval   69318006
+Shortened T wave   251212007
+Shortened TU interval   251215009
+Shortened U wave   251218006
+Sloping PR interval   251255006
+Tall R wave   164922005
+Tall T wave   251237002
+Tall U wave   251242005
+TU depression   251261009
+TU elevation   251260005
+Type A Wolff-Parkinson-White pattern   251116002
+Type B Wolff-Parkinson-White pattern   251117006
+Ventricular inversion   56743000
+Ventricular inversion electrocardiogram pattern   827077001
+Wandering atrial pacemaker   195101003
+Wide QRS complex   991002
+ECG: sinus rhythm   426783006

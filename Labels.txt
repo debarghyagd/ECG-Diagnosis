@@ -1,0 +1,23 @@
+47665007 : Right axis deviation
+164917005 : EKG: Q wave abnormal
+59931005 : Inverted T wave
+164873001 : EKG:left ventricle hypertrophy
+111975006 : Prolonged QT interval
+426995002 : EKG: junctional escape rhythm
+426761007 : EKG: supraventricular tachycardia
+195101003 : Wandering atrial pacemaker
+164947007 : Prolonged PR interval
+49578007 : Shortened PR interval
+164934002 : EKG: T wave abnormal
+164912004 : EKG: P wave abnormal
+426783006 : ECG: sinus rhythm
+61721007 : Counterclockwise vectorcardiographic loop
+713422000 : EKG: atrial tachycardia
+164896001 : EKG: ventricular fibrillation
+39732003 : Left axis deviation
+251211000 : Prolonged T wave
+164937009 : EKG: U wave abnormal
+55930002 : S-T changes
+164890007 : EKG: atrial flutter
+164865005 : EKG: myocardial infarction
+164889003 : ECG: atrial fibrillation
